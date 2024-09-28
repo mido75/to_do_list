@@ -4,7 +4,9 @@ This is a simple mobile application built with React Native to help users add, d
   1) Add New Goal: Users can add a new course goal using a modal popup with a text input field.
   2) Delete Goals: Users can delete a goal by tapping on the goal item.
   3) Goal List: Displays a list of goals using a scrollable list.
+     
 #Prerequisites:
+
   1) Node.js and npm installed on your machine.
   2) Expo CLI for easy testing and development.
 
